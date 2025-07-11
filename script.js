@@ -44,7 +44,7 @@ function sendWeatherDataToAEP() {
           },
           xdm: {
             eventType: "decisioning.request",
-            _techmarketingdemos: {
+            _cognizanttechnologys: {
               temperature: temp,
               weatherConditions: condition,
               cityName: city
