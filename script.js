@@ -38,7 +38,7 @@ function sendWeatherDataToAEP() {
           renderDecisions: true,
           personalization: {
             surfaces: [
-              "web://nandha1312.github.io/Weather-offers/index.html#offerContainer"
+              "https://nandha1312.github.io/Weather-offers/#offerContainer"
 
             ]
           },
